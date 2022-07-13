@@ -1,0 +1,10 @@
+.Outter {
+  display: flex;
+  justify-content: space-between;
+}
+.gorw1 {
+  flex-grow: 6;
+}
+.gorw2 {
+  flex-grow: 7;
+}

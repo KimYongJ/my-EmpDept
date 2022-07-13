@@ -1,0 +1,28 @@
+.flexCss {
+  display: flex;
+  justify-content: space-evenly;
+}
+.Outter {
+  display: flex;
+  justify-content: space-between;
+}
+.gorw1 {
+  flex-grow: 6;
+}
+.gorw2 {
+  flex-grow: 7;
+}
+
+.input1 {
+  width: 100px;
+  height: 55px;
+  border: 3px solid black;
+  border-radius: 5px;
+  font-size: larger;
+  background-color: rgb(202, 239, 248);
+}
+
+.btn {
+  position: absolute;
+  right: 24%;
+}

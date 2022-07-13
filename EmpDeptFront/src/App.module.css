@@ -1,0 +1,22 @@
+.colorSize {
+  background-color: black;
+  padding: 10px;
+  color: white;
+  display: flex;
+  justify-content: space-around;
+  font-size: 20px;
+}
+.linkCSS {
+  padding: 20px;
+  color: white;
+  text-decoration: none;
+}
+.nav1 {
+  background-color: black;
+  padding: 10px;
+  color: white;
+  display: flex;
+  font-size: 40px;
+  font-weight: 500;
+  justify-content: space-around;
+}
